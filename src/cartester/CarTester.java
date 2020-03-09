@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Shawn Phung
+ * March 02, 2020
+ * To display information about 3 cars
  */
 
 package cartester;
